@@ -1,0 +1,29 @@
+Notas Introductorias
+
+Componentes principales:
+Vista (View)
+Layout.
+* Actividad (Activity)
+Fragmentos (Fragment)
+* Servicio (Service)
+Intención (Intent)
+* Receptor de anuncios (Broadcast Receiver)
+* Proveedores de Contenido (Content Provider)
+
+GIT / Sandbox ==> https://learngitbranching.js.org/
+commit
+branch
+checkout
+cherry-pick
+reset
+revert
+rebase
+merge
+
+
+*Subir 5 tareas de https://www.hackerrank.com/onboarding/challenge
+Hacer el readme y subir al repositorio
+
+
+Acceder al sitio para hacer los ejercicios
+https://play.kotlinlang.org/
